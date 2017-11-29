@@ -1,0 +1,52 @@
+Ques: 07 Which two statements are true about has-a and is-a relationships? (Choose
+two.)
+A. Inheritance represents an is-a relationship.
+B. Inheritance represents a has-a relationship.
+C. Interfaces must be used when creating a has-a relationship.
+D. Instance variables can be used when creating a has-a relationship.
+Answer: A, D
+
+Ques: 10
+Ans:If you define D e = (D)(new E()), then e.bMethod() invokes the version of bMethod()
+defined in Line 9
+
+Ques: 12
+Ans:foobarfoobarfoo
+
+Ques: 13 Which two statements are true? (Choose two.)
+A. An encapsulated, public class promotes re-use.
+B. Classes that share the same interface are always tightly encapsulated.
+C. An encapsulated class allows subclasses to overload methods, but does NOT allow overriding methods.
+D. An encapsulated class allows a programmer to change an implementation without affecting outside code.
+Answer: A, D
+
+Ques: 14 Given:
+11. public static void test(String str) {
+12. if (str == null | str.length() == 0) {
+13. System.out.println("String is empty");
+14. } else {
+15. System.out.println("String is not empty");
+16. }
+17. }
+And the invocation:
+31. test(null);
+
+What is the result?
+An exception is thrown at runtime.
+
+Ques: 15 class Wow
+Ans:Compilation fails.
+
+Ques: 17
+Ans:123
+
+Q:19
+Ans:
+C. public Two foo() { return this; }
+D. public One foo() { return this; }
+
+22:continues
+
+
+
+
